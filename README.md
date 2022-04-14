@@ -1,5 +1,5 @@
-# zig-codesign
+# zignature
 
-`codesign` your apps with Zig!
+`codesign` your Apple apps with Zig!
 
 Coming soon...
